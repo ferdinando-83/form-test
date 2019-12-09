@@ -1,0 +1,37 @@
+{
+  "name": "reactapp2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdinando-83/reactApp2.git"
+  },
+  "author": "David Ferdinand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdinando-83/reactApp2/issues"
+  },
+  "homepage": "https://github.com/ferdinando-83/reactApp2#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "^3.3.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
